@@ -2,3 +2,5 @@
 * [인공지능 사례](https://github.com/AnamKwon/Gwangju-Ai-center-Free-course_anam/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 2주차 과제(5.28~6.3)
 * [파이썬문제, 인공지능 수학 문제](https://nbviewer.jupyter.org/github/AnamKwon/Gwangju-Ai-center-Free-course_anam/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
+## 3주차 과제(6.4~6.10)
+* [학습률 최적화, 군집분석 코딩, Cost function 구현](https://github.com/AnamKwon/Gwangju-Ai-center-Free-course_anam/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
